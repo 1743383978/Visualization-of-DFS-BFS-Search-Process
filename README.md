@@ -1,3 +1,4 @@
+#DFS & BFS 搜索过程可视化
 # Visualization-of-DFS-BFS-Search-Process
 
 利用Python PyGame对DFS & BFS在路径中的搜索过程进行可视化\

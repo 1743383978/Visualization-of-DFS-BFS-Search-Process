@@ -4,6 +4,9 @@
 利用Python PyGame对DFS & BFS在路径中的搜索过程进行可视化\
 Visualize the search process of DFS & BFS in the path using Python Pygame
 
+安装Pygame\
+pip install pygame
+
 运行main.py来启动程序\
 Runing main.py to start
 
